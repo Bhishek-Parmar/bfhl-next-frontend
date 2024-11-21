@@ -146,6 +146,10 @@ export default function Home() {
                     </div>
                 )
             )}
+
+      <footer className="bg-gray-800 text-white text-center py-4">
+                <p>Bhishek Parmar || roll-no: 0827CS211059 || bhishekparmar210169@acropolis.in</p>
+            </footer>
         </div>
     );
 }
